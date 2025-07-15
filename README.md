@@ -17,12 +17,15 @@ Functionality to be added
 The app must have the following functionalities
 
 Initially the count of the number of clicks should be 0
-When Click Me! button is clicked the count of the number of clicks should be incremented by 1
-Implementation Files
 
-**Use these files to complete the implementation:**
+When Click Me! button is clicked the count of the number of clicks should be incremented by 1
+
+**Implementation Files**
+
+Use these files to complete the implementation:
 
 src/components/ClickCounter/index.js
+
 src/components/ClickCounter/index.css
 
 **Quick Tips**
@@ -33,9 +36,9 @@ You can use the below cursor CSS property for buttons to set the type of mouse c
 You can use the below outline CSS property for buttons and input elements to remove the highlighting when the elements are clicked,
 **outline: none;**
 
-Resources
+**Resources**
 
-Colors
+**Colors:**
 Hex: #f1f5f8
 Hex: #2d3a35
 Hex: #c20a72
