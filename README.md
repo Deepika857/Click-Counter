@@ -42,9 +42,16 @@ You can use the below outline CSS property for buttons and input elements to rem
 
 **Colors:**
 Hex: #f1f5f8
+
 Hex: #2d3a35
+
 Hex: #c20a72
+
 Hex: #ffffff
+
 Hex: #007bff
 
 Font-families: Roboto
+
+[**Project Link**: ](https://deepikabd0prrjscprd0xo.drops.nxtwave.tech/)
+
