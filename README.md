@@ -53,5 +53,3 @@ Hex: #007bff
 
 Font-families: Roboto
 
-**Project Link**: [https://deepikabd0prrjscprd0xo.drops.nxtwave.tech/](https://deepikabd0prrjscprd0xo.drops.nxtwave.tech/)
-
