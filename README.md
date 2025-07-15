@@ -31,9 +31,11 @@ src/components/ClickCounter/index.css
 **Quick Tips**
 
 You can use the below cursor CSS property for buttons to set the type of mouse cursor, to show when the mouse pointer is over an element,
+
 **cursor: pointer;**
 
 You can use the below outline CSS property for buttons and input elements to remove the highlighting when the elements are clicked,
+
 **outline: none;**
 
 **Resources**
